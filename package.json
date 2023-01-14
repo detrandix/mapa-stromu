@@ -67,5 +67,8 @@
     "*.+(js|json|ts|tsx)": [
       "yarn run format"
     ]
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
